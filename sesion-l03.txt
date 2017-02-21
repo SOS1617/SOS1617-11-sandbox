@@ -1,0 +1,29 @@
+    1  mkdir l03t
+    2  ls
+    3  cd 103t
+    4  cd
+    5  cd 103t
+    6  cd workspace/SOS1617-11-sandbox/
+    7  cd 103t
+    8  cd l03t
+    9  cd workspace/SOS1617-11-sandbox/l03t
+   10  touch index.js
+   11* 
+   12  c9 index.js 
+   13  node index.js
+   14  history > sesion-l03.txt
+   15  c9 sesion-l03.txt 
+   16  ls
+   17* 
+   18  c9 index.js 
+   19  node index.js
+   20  c9 index.js 
+   21  node index.js
+   22  node index.js 
+   23  none index.js 
+   24  c9 index.js 
+   25  node index.js 
+   26  node i
+   27  node
+   28  node index.js 
+   29  history > sesion-l03.txt
