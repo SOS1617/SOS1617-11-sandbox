@@ -1,0 +1,14 @@
+    1  cd SOS1617_11_sandbox
+    2  cd SOS161711afg-sandbox
+    3  ls
+    4  cd SOS1617-11-sandbox
+    5  la
+    6  mkdir l03t
+    7  ls
+    8  touch index.js
+    9  ls
+   10  c9 index.js
+   11  node index.js
+   12  historu
+   13  history
+   14  history > sesion-l03.txt
